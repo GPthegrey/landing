@@ -1,0 +1,28 @@
+.footer {
+  background-color: rgb(46, 44, 44);
+  text-align: center;
+  padding: 40px;
+}
+
+
+.footer > p {
+  color: grey
+
+}
+
+/* .footer > ul > li {
+  display: inline;
+} */
+
+.footer .list-class {
+  list-style: none;
+  padding-left: 0px;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+i {
+  color: #1CDD87;
+  font-size: 25px;
+}
